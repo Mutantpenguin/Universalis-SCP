@@ -1,0 +1,26 @@
+{
+  "ID": "a69f05b1-7d88-4d0f-91af-5792e387c5d1",
+  "Active": true,
+  "Name": "Sturmgewehr I",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

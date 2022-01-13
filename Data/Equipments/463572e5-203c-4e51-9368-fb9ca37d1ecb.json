@@ -1,0 +1,25 @@
+{
+  "ID": "463572e5-203c-4e51-9368-fb9ca37d1ecb",
+  "Active": true,
+  "Name": "Kampfdrogen",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 0.1,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 20,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

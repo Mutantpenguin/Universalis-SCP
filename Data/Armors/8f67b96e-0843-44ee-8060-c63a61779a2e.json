@@ -1,0 +1,27 @@
+{
+  "ID": "8f67b96e-0843-44ee-8060-c63a61779a2e",
+  "Active": true,
+  "Name": "Schutzweste II",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 32,
+  "Weight": 4.0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
+  "Protection": 5,
+  "AdditiveProtection": false,
+  "DamageReduction": 0,
+  "DamageEffects": [],
+  "SelfSustaining": false
+}

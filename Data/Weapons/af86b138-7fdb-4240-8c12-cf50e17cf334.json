@@ -1,0 +1,26 @@
+{
+  "ID": "af86b138-7fdb-4240-8c12-cf50e17cf334",
+  "Active": true,
+  "Name": "Maschinengewehr I",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 3,
+  "Type": 1,
+  "Strength": 6,
+  "AdditiveStrength": false,
+  "Damage": 3,
+  "SustainedFire": 4,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 25,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,26 @@
+{
+  "ID": "3ef845fb-59f8-42a4-92b3-53be12d6cac6",
+  "Active": true,
+  "Name": "Sturmgewehr II",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

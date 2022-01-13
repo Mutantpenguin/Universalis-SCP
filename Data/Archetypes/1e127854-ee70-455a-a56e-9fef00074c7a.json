@@ -1,0 +1,23 @@
+{
+  "ID": "1e127854-ee70-455a-a56e-9fef00074c7a",
+  "Active": true,
+  "Name": "Elitesoldat",
+  "Description": null,
+  "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
+  "Type": 1,
+  "Size": 2,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 5,
+    "HitPoints": 5,
+    "Attributes": {
+      "AGI": 5,
+      "HTH": 5,
+      "LRC": 5,
+      "PHY": 5,
+      "AWA": 5,
+      "DET": 5
+    }
+  },
+  "Traits": []
+}

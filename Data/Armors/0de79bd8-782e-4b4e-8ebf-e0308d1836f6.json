@@ -1,0 +1,15 @@
+{
+  "ID": "0de79bd8-782e-4b4e-8ebf-e0308d1836f6",
+  "Active": true,
+  "Name": "Gefechtsanzug II",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 18.0,
+  "ProfileModifier": null,
+  "Protection": 6,
+  "AdditiveProtection": false,
+  "DamageReduction": 2,
+  "DamageEffects": [],
+  "SelfSustaining": false
+}

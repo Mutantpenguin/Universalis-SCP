@@ -1,0 +1,28 @@
+{
+  "ID": "a436b4a5-bee7-4541-b6b4-527a87e268c0",
+  "Active": true,
+  "Name": "Schnellfeuer Schrotflinte",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.8,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 2,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [
+    "19ed035e-8451-4607-ae1c-bb836d5db6c3"
+  ],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 8,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

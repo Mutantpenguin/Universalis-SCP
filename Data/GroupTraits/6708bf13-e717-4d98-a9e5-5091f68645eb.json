@@ -1,0 +1,8 @@
+{
+  "ID": "6708bf13-e717-4d98-a9e5-5091f68645eb",
+  "Active": true,
+  "Name": "Vorwärts!",
+  "Description": null,
+  "Rules": "Jedes Modell darf 1 Mal im Spiel einen weiteren Aktionspunkt ausgeben.",
+  "PointsPerModel": 95
+}

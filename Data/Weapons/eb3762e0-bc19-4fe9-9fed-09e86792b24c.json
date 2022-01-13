@@ -1,0 +1,23 @@
+{
+  "ID": "eb3762e0-bc19-4fe9-9fed-09e86792b24c",
+  "Active": true,
+  "Name": "Buschmesser",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 2,
+  "Strength": 1,
+  "AdditiveStrength": true,
+  "Damage": 3,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": false
+}

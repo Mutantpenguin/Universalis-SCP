@@ -1,0 +1,25 @@
+{
+  "ID": "ac09fb6b-ad20-491d-af5d-bfe5bb323bbd",
+  "Active": true,
+  "Name": "Mono-Schwert",
+  "Description": "",
+  "Rules": "",
+  "Weight": 1.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 2,
+  "Strength": 6,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [
+    "3c78b31d-e455-4e35-a9d9-8feb1b14a245"
+  ],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": false
+}

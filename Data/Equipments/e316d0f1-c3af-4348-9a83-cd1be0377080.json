@@ -1,0 +1,25 @@
+{
+  "ID": "e316d0f1-c3af-4348-9a83-cd1be0377080",
+  "Active": true,
+  "Name": "Bionisches Bein",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 5.0,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 1,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": -1,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 1,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

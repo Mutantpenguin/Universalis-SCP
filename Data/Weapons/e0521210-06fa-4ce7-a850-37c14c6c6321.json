@@ -1,0 +1,28 @@
+{
+  "ID": "e0521210-06fa-4ce7-a850-37c14c6c6321",
+  "Active": true,
+  "Name": "Schrotflinte",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.8,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [
+    "19ed035e-8451-4607-ae1c-bb836d5db6c3"
+  ],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 8,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,15 @@
+{
+  "ID": "3adb7444-bb10-49cb-91b8-e372f439370e",
+  "Active": true,
+  "Name": "Gefechtsanzug I",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 15.0,
+  "ProfileModifier": null,
+  "Protection": 5,
+  "AdditiveProtection": false,
+  "DamageReduction": 1,
+  "DamageEffects": [],
+  "SelfSustaining": false
+}

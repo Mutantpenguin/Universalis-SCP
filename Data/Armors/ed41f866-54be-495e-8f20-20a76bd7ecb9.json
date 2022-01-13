@@ -1,0 +1,27 @@
+{
+  "ID": "ed41f866-54be-495e-8f20-20a76bd7ecb9",
+  "Active": true,
+  "Name": "Schutzweste III",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 32,
+  "Weight": 6.0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
+  "Protection": 7,
+  "AdditiveProtection": false,
+  "DamageReduction": 0,
+  "DamageEffects": [],
+  "SelfSustaining": false
+}

@@ -1,0 +1,26 @@
+{
+  "ID": "02a2c715-0f18-4845-88b4-f114f717ece8",
+  "Active": true,
+  "Name": "Gewehr I",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

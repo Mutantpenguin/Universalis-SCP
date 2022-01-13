@@ -1,0 +1,25 @@
+{
+  "ID": "72b2ea0b-4502-4250-818b-13cedd504071",
+  "Active": true,
+  "Name": "Brandgranate",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.6,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 3,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 4,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": true,
+  "DamageEffects": [
+    "4bf5b9a7-9c2b-4a77-b9ea-b85d4f75c062"
+  ],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": true
+}

@@ -1,0 +1,26 @@
+{
+  "ID": "47a9b051-a0e7-473d-b894-19f0a0ee6f40",
+  "Active": true,
+  "Name": "Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 6,
+  "Class": 1,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

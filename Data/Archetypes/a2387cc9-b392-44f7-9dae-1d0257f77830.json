@@ -1,0 +1,23 @@
+{
+  "ID": "a2387cc9-b392-44f7-9dae-1d0257f77830",
+  "Active": true,
+  "Name": "Falke",
+  "Description": null,
+  "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
+  "Type": 3,
+  "Size": 1,
+  "MovementType": 1,
+  "Profile": {
+    "Speed": 7,
+    "HitPoints": 4,
+    "Attributes": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 4,
+      "AWA": 6,
+      "DET": 0
+    }
+  },
+  "Traits": []
+}

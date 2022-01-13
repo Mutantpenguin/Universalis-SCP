@@ -1,0 +1,25 @@
+{
+  "ID": "c12ce57b-d241-44f5-98bb-d43796715105",
+  "Active": true,
+  "Name": "Bionischer Arm",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 5.0,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": -1,
+      "HTH": 1,
+      "LRC": 0,
+      "PHY": 1,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ID": "645f7579-aa70-42bc-945b-c867bf2fdf2d",
+  "Active": true,
+  "Name": "Feiglinge",
+  "Description": "",
+  "Rules": "Für jeden verpatzten EH-Test sinkt die EH des Modells um 1.",
+  "PointsPerModel": -50
+}

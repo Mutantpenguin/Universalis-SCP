@@ -1,0 +1,26 @@
+{
+  "ID": "62dd6b5a-75d1-45ca-84db-d7036e2a8922",
+  "Active": true,
+  "Name": "Scharfschützengewehr",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 6,
+  "AdditiveStrength": false,
+  "Damage": 3,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 40,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

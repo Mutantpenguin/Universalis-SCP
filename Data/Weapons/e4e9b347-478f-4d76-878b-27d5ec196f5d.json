@@ -1,0 +1,26 @@
+{
+  "ID": "e4e9b347-478f-4d76-878b-27d5ec196f5d",
+  "Active": true,
+  "Name": "Maschinenpistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 6,
+  "Class": 1,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

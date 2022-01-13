@@ -1,0 +1,26 @@
+{
+  "ID": "7a89c71d-b188-458b-8b63-791b790ac1be",
+  "Active": true,
+  "Name": "Sturmgewehr III",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

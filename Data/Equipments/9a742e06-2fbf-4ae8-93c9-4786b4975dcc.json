@@ -1,0 +1,25 @@
+{
+  "ID": "9a742e06-2fbf-4ae8-93c9-4786b4975dcc",
+  "Active": true,
+  "Name": "Sensoreinheit",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 0.5,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 2,
+      "DET": 0
+    }
+  }
+}

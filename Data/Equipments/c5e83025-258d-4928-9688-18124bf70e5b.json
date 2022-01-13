@@ -1,0 +1,25 @@
+{
+  "ID": "c5e83025-258d-4928-9688-18124bf70e5b",
+  "Active": true,
+  "Name": "Dermale Platten",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 3.0,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 2,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

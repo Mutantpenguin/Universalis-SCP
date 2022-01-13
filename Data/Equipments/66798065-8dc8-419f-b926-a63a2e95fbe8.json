@@ -1,0 +1,25 @@
+{
+  "ID": "66798065-8dc8-419f-b926-a63a2e95fbe8",
+  "Active": true,
+  "Name": "Wabenknochen",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": -15.0,
+  "UseOnce": false,
+  "Unwieldy": false,
+  "AP": 0,
+  "ProfileModifier": {
+    "Speed": 2,
+    "HitPoints": -1,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": -1,
+      "AWA": 0,
+      "DET": 0
+    }
+  }
+}

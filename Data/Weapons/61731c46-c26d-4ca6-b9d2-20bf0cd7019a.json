@@ -1,0 +1,26 @@
+{
+  "ID": "61731c46-c26d-4ca6-b9d2-20bf0cd7019a",
+  "Active": false,
+  "Name": "Jagdgewehr I",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 30,
+    "Amount": 2
+  },
+  "UseOnce": false
+}

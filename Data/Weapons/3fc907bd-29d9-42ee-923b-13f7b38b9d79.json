@@ -1,0 +1,26 @@
+{
+  "ID": "3fc907bd-29d9-42ee-923b-13f7b38b9d79",
+  "Active": true,
+  "Name": "Sprenggranate",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.5,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 3,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 5,
+  "SustainedFire": 0,
+  "Radius": 3,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": true,
+  "DamageEffects": [
+    "6b257864-5c2c-4072-a047-ba5f3614369c",
+    "fd2f8c83-948a-4fbf-a70d-e8c4ac3ae107"
+  ],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": true
+}

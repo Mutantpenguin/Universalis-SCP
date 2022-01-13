@@ -1,0 +1,23 @@
+{
+  "ID": "7a05ddcd-b700-488f-b600-aac615ef62e0",
+  "Active": true,
+  "Name": "Messer",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.1,
+  "AdditionalPoints": 0,
+  "Class": 1,
+  "Type": 2,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 1,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": false
+}

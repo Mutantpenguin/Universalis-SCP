@@ -1,0 +1,26 @@
+{
+  "ID": "2b414649-b192-4f87-a464-16831f8733f9",
+  "Active": true,
+  "Name": "Schwere Maschinenpistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 6,
+  "Class": 1,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 3,
+  "SustainedFire": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

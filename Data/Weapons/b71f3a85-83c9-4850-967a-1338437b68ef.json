@@ -1,0 +1,26 @@
+{
+  "ID": "b71f3a85-83c9-4850-967a-1338437b68ef",
+  "Active": true,
+  "Name": "Gewehr II",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

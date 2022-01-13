@@ -1,0 +1,25 @@
+{
+  "ID": "60cf15f5-954b-4bcc-a423-5abdff05d169",
+  "Active": true,
+  "Name": "Schockgranate",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.6,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 3,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 5,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": true,
+  "DamageEffects": [
+    "c3dabcff-c5ff-429d-8f40-2d1e2ad9ebd8"
+  ],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": true
+}

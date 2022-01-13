@@ -1,0 +1,13 @@
+{
+  "ID": "1b88e382-d07e-4628-ac98-264183b24018",
+  "Active": true,
+  "Name": "Medi-Pack",
+  "Description": "",
+  "Rules": "Stellt 5 TP beim Träger oder einem befreundeten Modell in Basekontakt wieder her.",
+  "AdditionalPoints": 50,
+  "Weight": 0.6,
+  "UseOnce": true,
+  "Unwieldy": false,
+  "AP": 3,
+  "ProfileModifier": null
+}

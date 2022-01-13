@@ -1,0 +1,25 @@
+{
+  "ID": "463dee9a-15dd-4d4c-b367-c042c2ade108",
+  "Active": true,
+  "Name": "Splittergranate",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.5,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 3,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 3,
+  "SustainedFire": 0,
+  "Radius": 7,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": true,
+  "DamageEffects": [
+    "19ed035e-8451-4607-ae1c-bb836d5db6c3"
+  ],
+  "ProfileModifier": null,
+  "Range": null,
+  "UseOnce": true
+}

@@ -1,0 +1,26 @@
+{
+  "ID": "319145d3-bae5-464b-9d75-f275c1b4b2f3",
+  "Active": true,
+  "Name": "Schwere Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 6,
+  "Class": 1,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 3,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}
