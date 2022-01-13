@@ -11,7 +11,7 @@
   "Strength": 6,
   "AdditiveStrength": false,
   "Damage": 3,
-  "SustainedFire": 1,
+  "SustainedFire": 0,
   "Radius": 0,
   "Unwieldy": false,
   "Reloadable": false,
