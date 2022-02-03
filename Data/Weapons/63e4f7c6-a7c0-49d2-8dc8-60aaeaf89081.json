@@ -1,0 +1,28 @@
+{
+  "ID": "63e4f7c6-a7c0-49d2-8dc8-60aaeaf89081",
+  "Active": true,
+  "Name": "PL-PX-4",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "AdditionalPoints": 6,
+  "Class": 1,
+  "Type": 1,
+  "Strength": 4,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [
+    "97a68f5c-5030-4065-b732-603fdaabbc5f"
+  ],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

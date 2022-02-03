@@ -1,0 +1,29 @@
+{
+  "ID": "f57b40d1-23d0-4ab3-a04e-b6d6b85970bc",
+  "Active": true,
+  "Name": "Beta TEK",
+  "Description": null,
+  "Faction": "39c22c3b-57cf-4307-8b9d-80189a4569af",
+  "Type": 1,
+  "Size": 2,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 4,
+    "HitPoints": 5,
+    "Attributes": {
+      "AGI": 4,
+      "HTH": 5,
+      "LRC": 5,
+      "PHY": 4,
+      "AWA": 5,
+      "DET": 4
+    }
+  },
+  "Traits": [
+    {
+      "ID": "fea44ea0-f995-4d9b-9564-9ff83f9ad6ac",
+      "Trait": "9e8c0164-9bd3-412d-a9fc-6e8eafb92c8d",
+      "Level": 1
+    }
+  ]
+}

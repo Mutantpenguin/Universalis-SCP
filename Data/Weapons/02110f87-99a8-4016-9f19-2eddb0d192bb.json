@@ -1,0 +1,26 @@
+{
+  "ID": "02110f87-99a8-4016-9f19-2eddb0d192bb",
+  "Active": true,
+  "Name": "PL-MP47",
+  "Description": "Prometheus Labs Inc. Maschienenpistole 47",
+  "Rules": "",
+  "Weight": 2.0,
+  "AdditionalPoints": 0,
+  "Class": 2,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 3,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

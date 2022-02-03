@@ -1,0 +1,12 @@
+{
+  "ID": "9e8c0164-9bd3-412d-a9fc-6e8eafb92c8d",
+  "Active": true,
+  "Name": "Techniker",
+  "Description": "",
+  "Rules": "Bei WN-Tests für technische Objekte oder Artefakte gilt ein Bonus von [LVL]. ",
+  "AdditionalPoints": 49,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}
