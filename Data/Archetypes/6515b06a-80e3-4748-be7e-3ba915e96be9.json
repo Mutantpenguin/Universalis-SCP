@@ -1,0 +1,34 @@
+{
+  "ID": "6515b06a-80e3-4748-be7e-3ba915e96be9",
+  "Active": true,
+  "Name": "Beta Nitro",
+  "Description": null,
+  "Faction": "39c22c3b-57cf-4307-8b9d-80189a4569af",
+  "Type": 1,
+  "Size": 2,
+  "MovementType": 2,
+  "Profile": {
+    "Speed": 4,
+    "HitPoints": 5,
+    "Attributes": {
+      "AGI": 5,
+      "HTH": 6,
+      "LRC": 5,
+      "PHY": 4,
+      "AWA": 4,
+      "DET": 4
+    }
+  },
+  "Traits": [
+    {
+      "ID": "181a79c5-2cab-4902-9a9f-9866a294d082",
+      "Trait": "569426db-7848-4550-8cc1-764239f3fc33",
+      "Level": 1
+    },
+    {
+      "ID": "363e173f-5da9-410d-9e21-0dd4df73add5",
+      "Trait": "3d4195ad-b34c-4419-b31f-36065e0c7cb4",
+      "Level": 2
+    }
+  ]
+}

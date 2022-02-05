@@ -1,0 +1,29 @@
+{
+  "ID": "789eaae8-c79f-40a0-81d2-849cc48177a5",
+  "Active": true,
+  "Name": "Experimenteller Dermalpanzer",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 40,
+  "Weight": 2.0,
+  "ProfileModifier": {
+    "Speed": 0,
+    "HitPoints": 0,
+    "CritThreshold": 0,
+    "AttributeModifier": {
+      "AGI": 0,
+      "HTH": 0,
+      "LRC": 0,
+      "PHY": 0,
+      "AWA": 0,
+      "DET": 0
+    }
+  },
+  "Protection": 4,
+  "AdditiveProtection": false,
+  "DamageReduction": 1,
+  "DamageEffects": [
+    "6b257864-5c2c-4072-a047-ba5f3614369c"
+  ],
+  "SelfSustaining": false
+}
