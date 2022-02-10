@@ -1,7 +1,7 @@
 {
   "ID": "7bcf2833-7f4a-4ba8-9e32-df19d2c60bf9",
   "Active": true,
-  "Name": "Veteran",
+  "Name": "Veteranen Agent",
   "Description": null,
   "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
   "Type": 1,
@@ -19,5 +19,11 @@
       "DET": 6
     }
   },
-  "Traits": []
+  "Traits": [
+    {
+      "ID": "3206514e-d68b-4d02-b40e-3548aa1455a9",
+      "Trait": "29682b08-81e5-48a5-b453-720c1900c08b",
+      "Level": 1
+    }
+  ]
 }

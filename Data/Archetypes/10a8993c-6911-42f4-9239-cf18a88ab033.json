@@ -1,7 +1,7 @@
 {
-  "ID": "1e127854-ee70-455a-a56e-9fef00074c7a",
+  "ID": "10a8993c-6911-42f4-9239-cf18a88ab033",
   "Active": true,
-  "Name": "Agent",
+  "Name": "Korporal",
   "Description": null,
   "Faction": "0a0fd6cc-d8ec-4e59-be5b-ea04b5446f69",
   "Type": 1,
@@ -16,13 +16,13 @@
       "LRC": 7,
       "PHY": 5,
       "AWA": 5,
-      "DET": 5
+      "DET": 6
     }
   },
   "Traits": [
     {
-      "ID": "5e1d362c-d7ab-43b9-8538-175a372efc8d",
-      "Trait": "29682b08-81e5-48a5-b453-720c1900c08b",
+      "ID": "859e6524-a11b-4189-b136-3f4cbc17546e",
+      "Trait": "50602d78-4585-4973-be01-bccea1c187ed",
       "Level": 1
     }
   ]
