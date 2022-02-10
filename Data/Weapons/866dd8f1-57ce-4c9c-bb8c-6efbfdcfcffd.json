@@ -1,0 +1,28 @@
+{
+  "ID": "866dd8f1-57ce-4c9c-bb8c-6efbfdcfcffd",
+  "Active": true,
+  "Name": "Schweres Sturmgewehr",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.5,
+  "AdditionalPoints": 0,
+  "Class": 3,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 2,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [
+    "97a68f5c-5030-4065-b732-603fdaabbc5f"
+  ],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

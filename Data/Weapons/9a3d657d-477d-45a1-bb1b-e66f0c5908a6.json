@@ -1,0 +1,26 @@
+{
+  "ID": "9a3d657d-477d-45a1-bb1b-e66f0c5908a6",
+  "Active": true,
+  "Name": "Minigun",
+  "Description": "",
+  "Rules": "",
+  "Weight": 16.0,
+  "AdditionalPoints": 0,
+  "Class": 3,
+  "Type": 1,
+  "Strength": 5,
+  "AdditiveStrength": false,
+  "Damage": 2,
+  "SustainedFire": 4,
+  "Radius": 0,
+  "Unwieldy": false,
+  "Reloadable": false,
+  "IndirectFire": false,
+  "DamageEffects": [],
+  "ProfileModifier": null,
+  "Range": {
+    "Length": 20,
+    "Amount": 4
+  },
+  "UseOnce": false
+}
