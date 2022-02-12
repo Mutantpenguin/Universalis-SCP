@@ -1,0 +1,17 @@
+{
+  "ID": "b841100f-760c-4801-9ccc-6d5f66e8e233",
+  "Active": true,
+  "Name": "Kompositpanzerung",
+  "Description": "",
+  "Rules": "",
+  "AdditionalPoints": 0,
+  "Weight": 15.0,
+  "ProfileModifier": null,
+  "Protection": 5,
+  "AdditiveProtection": false,
+  "DamageReduction": 0,
+  "DamageEffects": [
+    "cf7d19ca-fae5-41e2-8252-1ea3a9713ff3"
+  ],
+  "SelfSustaining": false
+}
