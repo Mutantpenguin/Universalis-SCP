@@ -4,7 +4,7 @@
   "Name": "Techniker",
   "Description": "",
   "Rules": "Bei WN-Tests für technische Objekte oder Artefakte gilt ein Bonus von [LVL]. ",
-  "AdditionalPoints": 49,
+  "BasePoints": 49,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

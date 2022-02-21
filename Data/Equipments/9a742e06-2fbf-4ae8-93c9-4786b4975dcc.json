@@ -4,7 +4,7 @@
   "Name": "Sensoreinheit",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": 0,
+  "BasePoints": 0,
   "Weight": 0.5,
   "UseOnce": false,
   "Unwieldy": false,

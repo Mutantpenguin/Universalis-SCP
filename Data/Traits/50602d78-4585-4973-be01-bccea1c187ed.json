@@ -4,7 +4,7 @@
   "Name": "Anführer",
   "Description": "",
   "Rules": "Das Modell ist der Gruppenführer.\r\n\r\nDarf den vergleichenden Wurf auf EH zur Feststellung der Reihenfolge des Aufstellens der Modelle [LVL] mal wiederholen.",
-  "AdditionalPoints": 50,
+  "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

@@ -4,7 +4,7 @@
   "Name": "Tatkräftig",
   "Description": "",
   "Rules": "Darf den vergleichenden Wurf auf AGI zur Feststellung der Reihenfolge innerhalb einer Runde [LVL] mal wiederholen.",
-  "AdditionalPoints": 50,
+  "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 2,

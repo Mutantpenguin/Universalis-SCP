@@ -4,7 +4,7 @@
   "Name": "Kampfdrogen",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": 0,
+  "BasePoints": 0,
   "Weight": 0.1,
   "UseOnce": false,
   "Unwieldy": false,

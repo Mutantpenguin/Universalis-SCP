@@ -4,7 +4,7 @@
   "Name": "Medi-Pack",
   "Description": "",
   "Rules": "Stellt 5 TP beim Träger oder einem befreundeten Modell in Basekontakt wieder her.",
-  "AdditionalPoints": 50,
+  "BasePoints": 50,
   "Weight": 0.6,
   "UseOnce": true,
   "Unwieldy": false,

@@ -4,7 +4,7 @@
   "Name": "Bionischer Arm",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": 0,
+  "BasePoints": 0,
   "Weight": 5.0,
   "UseOnce": false,
   "Unwieldy": false,

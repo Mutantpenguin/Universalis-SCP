@@ -4,7 +4,7 @@
   "Name": "Medi-Stick",
   "Description": "",
   "Rules": "Stellt 1 TP beim Träger oder einem befreundeten Modell in Basekontakt wieder her.",
-  "AdditionalPoints": 50,
+  "BasePoints": 50,
   "Weight": 0.1,
   "UseOnce": true,
   "Unwieldy": false,
