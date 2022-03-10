@@ -8,7 +8,7 @@
   "Size": 2,
   "MovementType": 2,
   "Profile": {
-    "Speed": 5,
+    "Speed": 4,
     "HitPoints": 5,
     "Attributes": {
       "AGI": 5,
