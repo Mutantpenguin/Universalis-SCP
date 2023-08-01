@@ -19,11 +19,5 @@
       "DET": 4
     }
   },
-  "Traits": [
-    {
-      "ID": "fea44ea0-f995-4d9b-9564-9ff83f9ad6ac",
-      "Trait": "9e8c0164-9bd3-412d-a9fc-6e8eafb92c8d",
-      "Level": 1
-    }
-  ]
+  "Traits": []
 }
